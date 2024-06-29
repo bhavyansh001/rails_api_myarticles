@@ -1,5 +1,20 @@
-# README
-This is a backend api created using rails
-Used MySQL database
-It can be used for Creating, Reading, Updating, Deleting articles
-Allows switching between different versions easily
+# Rails API MyArticles
+
+Rails API MyArticles is a robust backend API designed for managing articles. It facilitates creating, reading, updating, and deleting articles, along with an efficient mechanism for switching between different versions of an article.
+
+## Features
+
+- **Article Management**: Comprehensive CRUD operations for articles.
+- **Version Control**: Easy switching between different versions of an article.
+
+## Database
+
+- Uses PostgreSQL as its database.
+
+## Getting Started
+
+### Prerequisites
+
+- Ruby version 3.3.0 or higher
+- Rails
+- PostgreSQL
