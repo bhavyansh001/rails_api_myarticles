@@ -15,6 +15,6 @@ Rails API MyArticles is a robust backend API designed for managing articles. It 
 
 ### Prerequisites
 
-- Ruby version 3.3.0 or higher
+- Ruby version 3.1.2 or higher
 - Rails
 - PostgreSQL
